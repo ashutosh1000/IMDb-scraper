@@ -8,7 +8,7 @@ This project scraps the poster,title,year and rating of IMDb top 50 movies.
 
 ## Technologies
 Project is created with:
-*Java(Jsoup)
+Java(Jsoup)
 	
 ## Setup
 
