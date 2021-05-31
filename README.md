@@ -6,11 +6,11 @@
 
 
 ##About
-This project scraps the poster,title,year and rating of IMDb top 50 movies.
+*This project scraps the poster,title,year and rating of IMDb top 50 movies.
 
 ##Technologies
-Java(Jsoup)
+*Java(Jsoup)
 
 ##Setup
-Run the code on any IDE.(I used VS Code)
-To download Jsoup:https://jsoup.org/
+*Run the code on any IDE.(I used VS Code)
+*To download Jsoup:https://jsoup.org/
